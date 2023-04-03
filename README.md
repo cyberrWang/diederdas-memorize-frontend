@@ -16,7 +16,8 @@ Live demo: https://diederdas-memorize.onrender.com/
 * 单词能够按首字母排序
 * Authentication
 * 使用Mongodb储存数据，每个用户有自己的单词列表
-* ...
+* 合并前后端
+* ......
 
 **Background**
 
