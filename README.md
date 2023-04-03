@@ -19,7 +19,7 @@ Live demo: https://diederdas-memorize.onrender.com/
 * 合并前后端
 * ......
 
-**Background**
+**Background:**
 
 I'm learning German right now, and it's so hard to remember the gender of German nouns, which gave me the idea to create an app to help with this situation ^_^
 
