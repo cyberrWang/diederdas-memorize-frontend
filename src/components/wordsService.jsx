@@ -8,7 +8,7 @@ const getAll = () => {
 }
 
 const update = (editWord) => {
-  const request = axios.put(`${wordsUrl}/:${editWord.id}`, editWord);
+  const request = axios.put(`${wordsUrl}/${editWord.id}`, editWord);
   return request.then(response => response.data);
 }
 
